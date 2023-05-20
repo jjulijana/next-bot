@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.send-icon{
+  position: absolute;
+  top: 13.5px;
+  right: 20px;
+}
+
+.messages{
+  height: calc(100vh - 7.2rem);
+
+}
