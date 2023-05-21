@@ -1,0 +1,5 @@
+/* don't want this to be global */
+
+.messages{
+    height: calc(100vh - 7.2rem);
+}
